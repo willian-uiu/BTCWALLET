@@ -1,1 +1,3 @@
-#Criação de carteira bitcoin na testnet do BITCOIN com nodeJS 
+# Bitcoin testnet
+
+Criação de uma carteira bitcoin na formação blockchain specialist da DIO
